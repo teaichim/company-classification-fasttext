@@ -62,5 +62,5 @@ You can download the trained FastText model here:
 ##  Author
 
 👩‍💻 **Andreea Ichim**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/ichim-andreea-2891a1193/])  
+🔗 [LinkedIn](https://www.linkedin.com/in/ichim-andreea-2891a1193/)  
 📧 andreeaichim1123@gmail.com
